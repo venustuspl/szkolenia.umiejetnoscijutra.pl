@@ -18,3 +18,19 @@ Google Umiejętności Jutra AI 2.0! 🤗
 🟣 Strategia SEO z AI  
 🟣 Performance Marketing z AI  
 🟣 Nowoczesne narzędzia dla biznesu  
+
+#III Automatyzacja pracy z asystentami i agentami AI  
+🟣 Praca z asystentami AI  
+🟣 Automatyzacja jako umiejętność jutra  
+🟣 Wprowadzenie do Agentów AI (część 1.)  
+🟣 Wprowadzenie do Agentów AI (część 2.)  
+🟣 Agentspace: Jak bezpiecznie połączyć nasze dane z AI bez pisania kodu  
+🟣 Praktyczna budowa Agentów AI w n8n  
+
+
+#IV Analiza danych i podejmowanie decyzji z wykorzystaniem AI  
+🟣 Myślenie analityczne w erze AI  
+🟣 Zastosowanie AI w Google BigQuery i SQL  
+🟣 Jak przygotować dane Twojej firmy na erę AI? Hurtownia danych (Nieobowiązkowa)  
+🟣 Analityka w GA4 z wykorzystaniem AI (Nieobowiązkowa)  
+🟣 Analizy RFM z wykorzystaniem AI (Nieobowiązkowa)  
