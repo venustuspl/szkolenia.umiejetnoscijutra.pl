@@ -34,3 +34,11 @@ Google Umiejętności Jutra AI 2.0! 🤗
 🟣 Jak przygotować dane Twojej firmy na erę AI? Hurtownia danych (Nieobowiązkowa)  
 🟣 Analityka w GA4 z wykorzystaniem AI (Nieobowiązkowa)  
 🟣 Analizy RFM z wykorzystaniem AI (Nieobowiązkowa)  
+
+#V Zarządzanie zmianą i wdrożeniem AI na poziomie organizacyjnym  
+🟣 Strategia AI w firmach  
+🟣Zarządzanie projektami AI  
+🟣AI Case Study | Jak onboardować zespół i sprawić, by technologia stała się realnym wsparciem  
+🟣Tworzenie wartości w firmie  
+🟣Wdrażanie zmian w perspektywie indywidualnej  
+🟣Wdrażanie AI w organizacji  
